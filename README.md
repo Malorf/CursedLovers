@@ -1,5 +1,5 @@
 # CursedLovers
-Thanks for reading this, biggest parts of my code are in the following paths :
+Thanks for reading this, this project runs on UE5. Biggest parts of my code are in the following paths :
 
 1.  Player Character
 
