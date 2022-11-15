@@ -38,7 +38,7 @@
 #define WITH_CEF3 1
 #define WITH_LIVE_CODING 1
 #define UE_LIVE_CODING_ENGINE_DIR "D:\\UE_5.0\\Engine"
-#define UE_LIVE_CODING_PROJECT "D:\\UE_5.0\\Unreal Projects\\CursedLoversReboot\\CursedLoversReboot.uproject"
+#define UE_LIVE_CODING_PROJECT "D:\\UE_5.0\\Unreal Projects\\CursedLovers\\CursedLovers.uproject"
 #define WITH_CPP_MODULES 0
 #define WITH_CPP_COROUTINES 0
 #define UBT_MODULE_MANIFEST "UnrealGame.modules"
@@ -58,7 +58,7 @@
 #define NDEBUG 1
 #define UE_BUILD_DEVELOPMENT 1
 #define UE_IS_ENGINE_MODULE 0
-#define UE_PROJECT_NAME CursedLoversReboot
+#define UE_PROJECT_NAME CursedLovers
 #define UE_TARGET_NAME CursedLoversReboot
 #define WITH_ADVANCED_STEAM_SESSIONS 1
 #define UE_MODULE_NAME "AdvancedSteamSessions"

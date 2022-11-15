@@ -1,14 +1,14 @@
 {
     "Version": "1.1",
     "Data": {
-        "Source": "d:\\ue_5.0\\unreal projects\\cursedloversreboot\\plugins\\advancedsessions\\advancedsessions\\intermediate\\build\\win64\\unrealgame\\development\\advancedsessions\\module.advancedsessions.gen.3_of_3.cpp",
+        "Source": "d:\\ue_5.0\\unreal projects\\cursedlovers\\plugins\\advancedsessions\\advancedsessions\\intermediate\\build\\win64\\unrealgame\\development\\advancedsessions\\module.advancedsessions.gen.3_of_3.cpp",
         "ProvidedModule": "",
-        "PCH": "d:\\ue_5.0\\unreal projects\\cursedloversreboot\\intermediate\\build\\win64\\cursedloversreboot\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "PCH": "d:\\ue_5.0\\unreal projects\\cursedlovers\\intermediate\\build\\win64\\cursedloversreboot\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
         "Includes": [
-            "d:\\ue_5.0\\unreal projects\\cursedloversreboot\\plugins\\advancedsessions\\advancedsessions\\intermediate\\build\\win64\\unrealgame\\development\\advancedsessions\\definitions.advancedsessions.h",
-            "d:\\ue_5.0\\unreal projects\\cursedloversreboot\\plugins\\advancedsessions\\advancedsessions\\intermediate\\build\\win64\\unrealgame\\inc\\advancedsessions\\startsessioncallbackproxyadvanced.gen.cpp",
-            "d:\\ue_5.0\\unreal projects\\cursedloversreboot\\plugins\\advancedsessions\\advancedsessions\\source\\advancedsessions\\classes\\startsessioncallbackproxyadvanced.h",
-            "d:\\ue_5.0\\unreal projects\\cursedloversreboot\\plugins\\advancedsessions\\advancedsessions\\source\\advancedsessions\\classes\\blueprintdatadefinitions.h",
+            "d:\\ue_5.0\\unreal projects\\cursedlovers\\plugins\\advancedsessions\\advancedsessions\\intermediate\\build\\win64\\unrealgame\\development\\advancedsessions\\definitions.advancedsessions.h",
+            "d:\\ue_5.0\\unreal projects\\cursedlovers\\plugins\\advancedsessions\\advancedsessions\\intermediate\\build\\win64\\unrealgame\\inc\\advancedsessions\\startsessioncallbackproxyadvanced.gen.cpp",
+            "d:\\ue_5.0\\unreal projects\\cursedlovers\\plugins\\advancedsessions\\advancedsessions\\source\\advancedsessions\\classes\\startsessioncallbackproxyadvanced.h",
+            "d:\\ue_5.0\\unreal projects\\cursedlovers\\plugins\\advancedsessions\\advancedsessions\\source\\advancedsessions\\classes\\blueprintdatadefinitions.h",
             "d:\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\playerstate.h",
             "d:\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\engine\\playerstate.generated.h",
             "d:\\ue_5.0\\engine\\plugins\\online\\onlinesubsystem\\source\\public\\interfaces\\onlinesessioninterface.h",
@@ -166,11 +166,11 @@
             "d:\\ue_5.0\\engine\\plugins\\online\\onlinesubsystemutils\\intermediate\\build\\win64\\unrealgame\\inc\\onlinesubsystemutils\\testbeaconhost.generated.h",
             "d:\\ue_5.0\\engine\\plugins\\online\\onlinesubsystemutils\\source\\onlinesubsystemutils\\classes\\turnbasedblueprintlibrary.h",
             "d:\\ue_5.0\\engine\\plugins\\online\\onlinesubsystemutils\\intermediate\\build\\win64\\unrealgame\\inc\\onlinesubsystemutils\\turnbasedblueprintlibrary.generated.h",
-            "d:\\ue_5.0\\unreal projects\\cursedloversreboot\\plugins\\advancedsessions\\advancedsessions\\intermediate\\build\\win64\\unrealgame\\inc\\advancedsessions\\blueprintdatadefinitions.generated.h",
-            "d:\\ue_5.0\\unreal projects\\cursedloversreboot\\plugins\\advancedsessions\\advancedsessions\\intermediate\\build\\win64\\unrealgame\\inc\\advancedsessions\\startsessioncallbackproxyadvanced.generated.h",
-            "d:\\ue_5.0\\unreal projects\\cursedloversreboot\\plugins\\advancedsessions\\advancedsessions\\intermediate\\build\\win64\\unrealgame\\inc\\advancedsessions\\updatesessioncallbackproxyadvanced.gen.cpp",
-            "d:\\ue_5.0\\unreal projects\\cursedloversreboot\\plugins\\advancedsessions\\advancedsessions\\source\\advancedsessions\\classes\\updatesessioncallbackproxyadvanced.h",
-            "d:\\ue_5.0\\unreal projects\\cursedloversreboot\\plugins\\advancedsessions\\advancedsessions\\intermediate\\build\\win64\\unrealgame\\inc\\advancedsessions\\updatesessioncallbackproxyadvanced.generated.h"
+            "d:\\ue_5.0\\unreal projects\\cursedlovers\\plugins\\advancedsessions\\advancedsessions\\intermediate\\build\\win64\\unrealgame\\inc\\advancedsessions\\blueprintdatadefinitions.generated.h",
+            "d:\\ue_5.0\\unreal projects\\cursedlovers\\plugins\\advancedsessions\\advancedsessions\\intermediate\\build\\win64\\unrealgame\\inc\\advancedsessions\\startsessioncallbackproxyadvanced.generated.h",
+            "d:\\ue_5.0\\unreal projects\\cursedlovers\\plugins\\advancedsessions\\advancedsessions\\intermediate\\build\\win64\\unrealgame\\inc\\advancedsessions\\updatesessioncallbackproxyadvanced.gen.cpp",
+            "d:\\ue_5.0\\unreal projects\\cursedlovers\\plugins\\advancedsessions\\advancedsessions\\source\\advancedsessions\\classes\\updatesessioncallbackproxyadvanced.h",
+            "d:\\ue_5.0\\unreal projects\\cursedlovers\\plugins\\advancedsessions\\advancedsessions\\intermediate\\build\\win64\\unrealgame\\inc\\advancedsessions\\updatesessioncallbackproxyadvanced.generated.h"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []
