@@ -4,6 +4,8 @@ Thanks for reading this, you can check my portfolio right here :
 
 CursedLovers is available on itch.io : https://malorf.itch.io/
 
+You will need a steam account. Launch it then you can open the Cursed Lovers' application. Need to be at least 4 players. 
+
 ## $I.Synopsis$
 
 This game is a *cooperative multiplayer third person shooter*. From 4 to 10 players, everyone of you will be **connected** to another player from a different color as **LOVERS** !
