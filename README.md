@@ -2,7 +2,7 @@
 
 Thanks for reading this, you can check my portfolio right here :
 
-CursedLovers is available on itch.io : https://malorf.itch.io/
+CursedLovers is available on itch.io : https://malorf.itch.io/cursed-lovers
 
 You will need a steam account. Launch it then you can open the Cursed Lovers' application. Need to be at least 4 players. 
 
@@ -41,4 +41,7 @@ Thanks for reading this, this project runs on UE5. Biggest parts of my code are 
 
 ## $III. Screenshots$
 
+![Cl_preview](https://user-images.githubusercontent.com/109592209/203422966-d79f61c9-37f4-47f6-90ba-aa5a371210bf.png)
+![Cl_Area](https://user-images.githubusercontent.com/109592209/203423041-b8384d60-0596-4a03-8197-345a57293274.png)
+![Cl_aiming](https://user-images.githubusercontent.com/109592209/203423066-1b56e831-f56e-4dcf-aeab-e7d2af55ebdd.png)
 
