@@ -42,6 +42,6 @@ Thanks for reading this, this project runs on UE5. Biggest parts of my code are 
 ## $III. Screenshots$
 
 ![Cl_preview](https://user-images.githubusercontent.com/109592209/203422966-d79f61c9-37f4-47f6-90ba-aa5a371210bf.png)
-![Cl_Area](https://user-images.githubusercontent.com/109592209/203423041-b8384d60-0596-4a03-8197-345a57293274.png)
+![Cl_steamName](https://user-images.githubusercontent.com/109592209/203423239-016d4e3c-e86b-4df0-bf1c-6a137493b0e5.png)
 ![Cl_aiming](https://user-images.githubusercontent.com/109592209/203423066-1b56e831-f56e-4dcf-aeab-e7d2af55ebdd.png)
 
