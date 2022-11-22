@@ -12,7 +12,7 @@ This game is a *cooperative multiplayer third person shooter*. From 4 to 10 play
 
 What's the goal of the game ? To be the last couple on the battlefield ; kick the others !
 
-**WATCHOUT** ! You can only touched players from the **SAME** color than you... *But you can get hided behind a player from a different color without worries ;)*
+**WATCHOUT** ! You can only touch players from the **SAME** color than you... *But you can get hidden behind a player from a different color without worries ;)*
 
 ## $II. Code$
 
