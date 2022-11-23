@@ -1,6 +1,6 @@
 # CursedLovers
 
-Thanks for reading this, you can check my portfolio right here :
+Thanks for reading this, you can check my portfolio right here : https://malorf.github.io/
 
 CursedLovers is available on itch.io : https://malorf.itch.io/cursed-lovers
 
